@@ -2,7 +2,7 @@
 
 **Harvard CS Student**
 
-I like software, basketball, photography, and Peruvian food. 
+Apart from building, I also love basketball, photography, philosophy and Peruvian food. 
 
 ## Let's Connect
 
