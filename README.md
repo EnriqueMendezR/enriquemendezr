@@ -1,8 +1,8 @@
 # Enrique Mendez Ramos
 
-**Harvard CS Student**
+**Harvard CS**
 
-Apart from building, I also love basketball, photography, philosophy and Peruvian food. 
+I like building buttons. I also love basketball and Peruvian food. 
 
 ## Let's Connect
 
