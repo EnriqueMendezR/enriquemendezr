@@ -1,11 +1,11 @@
-# Enrique Mendez Ramos
+# enrique mendez ramos
 
-**Harvard CS**
+**harvard computer science**
 
-I like building buttons. I also love basketball and Peruvian food. 
+i love coding, basketball and peruvian food
 
-## Let's Connect
+## let's connect
 
-- Linkedin: [Enrique Mendez Ramos](https://www.linkedin.com/in/emendezramos/)
-- Website: [enriquemn.com](https://www.enriquemn.com)
-- Email: [emendezramos@college.harvard.edu](mailto:emendezramos@college.harvard.edu)
+- linkedin: [enrique mendez](https://www.linkedin.com/in/emendezramos/)
+- website: [enriquemn.com](https://www.enriquemn.com)
+- email: [emendezramos@college.harvard.edu](mailto:emendezramos@college.harvard.edu)
