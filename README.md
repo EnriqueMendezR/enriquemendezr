@@ -6,6 +6,6 @@ i love coding, basketball and peruvian food
 
 ## let's connect
 
-- linkedin: [enrique mendez](https://www.linkedin.com/in/emendezramos/)
+- linkedin: [enrique mendez](https://www.linkedin.com/in/enriquemn/)
 - website: [enriquemn.com](https://www.enriquemn.com)
 - email: [emendezramos@college.harvard.edu](mailto:emendezramos@college.harvard.edu)
