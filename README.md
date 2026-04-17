@@ -1,7 +1,7 @@
 # Enrique Mendez Ramos
 > Computer Science Student @ Harvard University
 
-Aside from coding, I love thinking about the way we think, basketball, and dessert-making. 
+Aside from coding, I love thinking about the way we perceive the world, basketball, and dessert-making. 
 
 ## Connect
 
