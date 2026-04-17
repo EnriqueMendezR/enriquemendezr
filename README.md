@@ -1,11 +1,10 @@
-# enrique mendez ramos
+# Enrique Mendez Ramos
+> Computer Science Student @ Harvard University
 
-**harvard computer science**
+Aside from coding, I love thinking about the way we think, basketball, and dessert-making. 
 
-i love coding, basketball and peruvian food
+## Connect
 
-## let's connect
-
-- linkedin: [enrique mendez](https://www.linkedin.com/in/enriquemn/)
-- website: [enriquemn.com](https://www.enriquemn.com)
-- email: [emendezramos@college.harvard.edu](mailto:emendezramos@college.harvard.edu)
+- 👤 Linkedin: [Enrique Mendez Ramos](https://www.linkedin.com/in/enriquemn/)
+- 🌐 Website: [enriquemn.com](https://www.enriquemn.com)
+- 📧 Email: [emendezramos@college.harvard.edu](mailto:emendezramos@college.harvard.edu)
